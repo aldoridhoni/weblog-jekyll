@@ -1,0 +1,34 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+
+# Site settings
+title: "Aldo's Weblog"
+description: > # this means to ignore newlines until "email:"
+   A Weblog - Aldo Ridhoni
+
+email: aldoridhoni@gmail.com
+#blog logo
+logo: "/assets/images/ar_logo.png"
+# blog cover
+cover: "//static.aldoridhoni.com/blog/covers/doodle.jpg"
+
+name: 'Aldo Ridhoni'
+author: 'Aldo Ridhoni'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "https://blog.aldoridhoni.com" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/aldoridho
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
