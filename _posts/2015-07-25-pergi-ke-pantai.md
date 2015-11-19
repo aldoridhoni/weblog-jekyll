@@ -22,8 +22,9 @@ Peta :
    
 Perjalanan kesana melewati jalan Pertamina yang tidak diaspal, berbatu dan sangat berdebu.   
 Video :   
-{% youtube ilxghCGZ-ss?rel=0 %}
-   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ilxghCGZ-ss" frameborder="0" allowfullscreen></iframe>
+
    
 Selama perjalanan. kami melewati 2 portal Pertamina. Petugas penjaga meminta untuk menyalakan lampu depan karena jarak pandang yang pendek tertutupi debu yang beterbangan.  
 Sebelum sampai pantai, kami dimintai retribusi sebesar Rp 20 ribu. Setelah sampai dipantai ternyata pengunjungnya ramai sekali, mobill parkir memenuhi kiri-kanan jalan.  
