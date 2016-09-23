@@ -1,26 +1,26 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
-gems:
-  - jemoji
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+gems: [jekyll-paginate, jekyll-gist, jemoji]
 
 # Site settings
-title: "Aldo's Weblog"
+title: "Aldo Ridhoni"
+tagline: "Belajar Menulis"
 description: > # this means to ignore newlines until "email:"
    A Weblog - Aldo Ridhoni
 
 email: aldoridhoni@gmail.com
-#blog logo
-logo: "/assets/images/ar_logo.png"
 # blog cover
 cover: "//static.aldoridhoni.com/blog/covers/doodle.jpg"
 
 name: 'Aldo Ridhoni'
 author: 'Aldo Ridhoni'
 author_image: "/assets/images/author.jpg"
-
+# version: '08.16'
 paginate:	5
-
+# github:
+  # repo: https://github.com/aldoridhoni/weblog/
 url: "https://blog.aldoridhoni.com" # the base hostname & protocol for your site
 baseurl: ""
 

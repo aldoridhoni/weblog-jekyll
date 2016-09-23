@@ -1,16 +1,13 @@
 ---
 layout: post
 title: Seminar Akakom
-cover: cover.jpg
 date: 2014-11-24 00:00:00
-categories: 'Kampus'
+categories: 'Opinion'
 comments: true
 image: https://static.aldoridhoni.com/blog/2014/11/24/seminar-akakom.jpg
 ---
 
-## Seminar Akakom ##
-
-![Foto pak mada](https://static.aldoridhoni.com/blog/2014/11/24/seminar-akakom.jpg)
+![Foto pak mada](/public/images/2014/11/24/seminar-akakom.jpg)
 
 Seminar yang dilaksanakan di STMIK AKAKOM dan diisi oleh Bpk Mada.
 Secara keseluruhan berisi tentang informasi menyangkut teknologi informasi dalam dunia kerja.

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Terompet Lucu
-cover: cover.jpg
 date: 2014-02-19 11:00:00
-categories: 'Everyday Life'
+categories: 'Story'
 comments: true
 ---
 

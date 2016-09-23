@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Leaflet Map</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css"/>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        html, body, #map {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js">
+    </script>
+
+    <script>
+        var map = L.map('map').setView([0.3735, 117.5571], 10);
+        mapLink = 
+            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+            'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data &copy; ' + mapLink,
+            maxZoom: 18,
+            }).addTo(map);
+	var marker = L.marker([0.3735, 117.5571])
+            .addTo(map)
+	    .bindPopup("<b>Teluk Lombok</b>")
+	    .openPopup();
+	var marker = L.marker([0.5061, 117.5352])
+            .addTo(map)
+            .bindPopup("Sangata");
+    </script>
+</body>
+</html>
