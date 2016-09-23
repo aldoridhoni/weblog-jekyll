@@ -17,10 +17,10 @@ cover: "//static.aldoridhoni.com/blog/covers/doodle.jpg"
 name: 'Aldo Ridhoni'
 author: 'Aldo Ridhoni'
 author_image: "/assets/images/author.jpg"
-# version: '08.16'
+version: '08.16'
 paginate:	5
-# github:
-  # repo: https://github.com/aldoridhoni/weblog/
+github:
+  repo: https://github.com/aldoridhoni/weblog/
 url: "https://blog.aldoridhoni.com" # the base hostname & protocol for your site
 baseurl: ""
 
