@@ -1,8 +1,12 @@
 # Build settings
+highlighter: rouge
+markdown: kramdown
 kramdown:
   input: GFM
+  auto_ids: true
   syntax_highlighter: rouge
 gems: [jekyll-paginate, jekyll-gist, jemoji]
+future: true
 
 # Site settings
 title: "Aldo Ridhoni"
